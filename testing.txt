@@ -1,0 +1,22 @@
+insert rec1 2 2 3 3
+insert rec1 2 2 3 3
+insert rec1 2 2 3 3
+insert rec1 2 2 3 3
+insert rec1 2 2 3 3
+insert rec1 2 2 3 3
+insert rec1 2 2 3 3
+insert rec1 2 2 3 3
+insert rec1 2 2 3 3
+insert rec1 2 2 3 3
+insert rec1 2 2 3 3
+insert rec2 2 2 3 3
+insert rec2 2 2 3 3
+insert rec3 2 2 3 3
+
+remove rec1
+remove rec1
+remove rec2
+remove rec3
+
+search rec1
+search rec2

@@ -1,0 +1,8 @@
+insert rec1 2 2 3 3
+insert rec2 2 2 3 3
+insert rec3 2 2 3 3
+
+remove 2 2 3 3
+search rec1
+search rec2
+search rec3

@@ -1,0 +1,28 @@
+remove r1
+remove r13
+remove r40
+remove r41
+
+insert t1  -10 10 5 5
+insert t2  -10 10 1225 5
+insert t3  -10 10 5 1225
+insert t4  -10 10 1225 1225
+
+insert t5  -10  -10 5 5
+insert t6  -10  -10 1225 5
+insert t7  -10  -10 5 1225
+insert t8  -10  -10 1225 1225
+
+insert t9  10  -10 5 5
+insert t10  10 -10 1225 5
+insert t11  10 -10 5 1225
+insert t12  10 -10 1225 1225
+insert t13  10  10 1014 10
+insert t14  10  10 10 1014
+insert t16  10  10 1014 1014
+
+search t9
+search t15
+search t17
+
+bbb

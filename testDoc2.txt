@@ -1,0 +1,9 @@
+insert goodRect  5  3 56 56
+insert goodRect2 111  400 20 20
+insert goodRect3 25  3 6 6
+
+dump
+
+remove goodRect
+remove goodRect2
+remove goodRect3

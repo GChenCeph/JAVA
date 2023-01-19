@@ -1,0 +1,14 @@
+insert testDump_1 5 3 56 56
+insert testDump_2 25 3 6 6
+insert testDump_3 5 3 56 56
+insert testDump_4 25 3 6 6
+insert virtual_rec0 1 1 2 2
+insert Virtual_rec0 2 2 11 3
+regionsearch   0 0 100 100 	
+remove   1 1 2 2
+remove   1 1 2 3
+regionsearch   0 0 100 100 
+
+  remove  testDump_2
+  
+  regionsearch   0 0 100 100 

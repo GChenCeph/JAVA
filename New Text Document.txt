@@ -1,0 +1,51 @@
+remove goodRect2
+remove goodRect3
+
+search goodRect
+search goodRect2
+search goodRect3
+
+insert goodRect  5  3 56 56
+insert goodRect2 111  400 20 20
+insert goodRect3 25  3 6 6
+
+remove goodRect
+remove goodRect2
+remove goodRect3
+
+search goodRect
+search goodRect2
+search goodRect3
+
+insert goodRect  5  3 56 56
+insert goodRect2 111  400 20 20
+insert goodRect3 25  3 6 6
+
+remove goodRect
+remove goodRect2
+remove goodRect3
+
+search goodRect
+search goodRect2
+search goodRect3
+
+insert testDump_1 5 3 56 56
+insert testDump_2 25 3 6 6
+insert testDump_3 5 3 56 56
+insert testDump_4 25 3 6 6
+search 25 3 6 6
+search 25 3 6 6
+insert virtual_rec0 1 1 2 2
+insert Virtual_rec0 2 2 11 3
+regionsearch   -5 -5 20 20 	
+remove   1 1 2 2
+remove   1 1 2 3
+remove   1 1 2 3 3
+remove   1 1 99 3
+remove   1 1 2 99
+remove   1 99 2 3
+remove   99 1 2 3
+remove   1 99 99 99
+remove   99 1 99 99
+remove   99 99 2 99
+remove   99 99 99 3
